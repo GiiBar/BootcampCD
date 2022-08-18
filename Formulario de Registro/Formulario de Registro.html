@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Registro</title>
+</head>
+<body>
+    <h1>Formulario de Registro</h1>
+    <div>Nombre:* <input type="text" name="Nombre"></div> 
+    <div>Apellido:* <input type="text" name="Apellido"></div> 
+    <div>Email:* <input type="text" name="email"></div> 
+    <div>Contraseña:*<input type="password" name="password"></div>
+    <div>Confirmar Contraseña:* <input type="password" name="password"></div>
+    <div>Fecha de Nacimiento: <input type="date" name="dob"></div>
+    Identidad de género:
+    <div><input type="radio" name="font" value="bold" id="bold">
+        <label for="bold">Femenino</label>
+        <input type="radio" name="font" value="normal" id="normal">
+        <label for="normal">Masculino</label>
+        <input type="radio" name="font" value="normal" id="normal">
+        <label for="normal">No-Binario</label>
+        <input type="radio" name="font" value="normal" id="normal">
+        <label for="normal">Prefiero no indicarlo</label>
+    </div>
+    Una pequeño descripción sobre ti:
+    <div><textarea name="comment" cols="20" rows="3"></textarea></div>
+    <div>
+        Lenguaje favorito: <select name="snack">
+        <option>JavaScript</option>
+        <option>Phyton</option>
+        <option>CSS</option>
+        <option>HTML</option>
+        </select>
+    </div>
+    <div><input type="checkbox" name="accept" id="accept">
+        <label for="accept">Acepto recibir ofertas por correo</label></div>
+    <div> <input type="submit" value="Enviar información" > </div>
+    * Es obligación rellenar.
+</body>
+</html>
