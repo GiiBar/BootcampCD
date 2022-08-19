@@ -1,0 +1,40 @@
+.h1 {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 50px;
+    height: 70px;
+    padding-left: 20px;
+}
+.HCloud{
+    color: cyan;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 50px;
+    display: inline-block;
+}
+.h2 {
+    color: white;
+    background-color: rgb(138, 38, 138);
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    height: 80px;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+.h3 {
+    color: black;
+    background-color:   rgb(128, 206, 230);
+    text-align: right;
+    text-decoration: underline;
+    font-family: cursive;
+    font-weight: light;
+    font-size: 40px;
+    height: 70px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
