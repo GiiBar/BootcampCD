@@ -1,0 +1,43 @@
+.nav{
+    width: 1000px;
+    height: 50px;
+    background-color: rgb(83, 83, 83);
+    display: flex;
+    font-style: roboto;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.nav-title {
+    font-size: 30px;
+    color: white;
+    flex: auto;
+}
+
+.nav-links {
+    font-style: roboto;
+    font-size: 120%;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+    color: aliceblue;
+    
+}
+
+.active {
+    padding: 20px;
+}
+
+.btn {
+    padding: 5px;
+    margin-left: 10px;
+    background-color: cadetblue;
+    color: white;
+    border: 10px;
+    border-color: black;
+}
+
+ul {
+    list-style: none;
+}
