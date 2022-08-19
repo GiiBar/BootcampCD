@@ -1,0 +1,23 @@
+.fila1 {
+    background-color: rgb(35, 36, 36);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.fila2 {
+    background-color: rgb(78, 163, 163);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.fila3 {
+    background-color: rgb(218, 247, 218);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-around;
+}
