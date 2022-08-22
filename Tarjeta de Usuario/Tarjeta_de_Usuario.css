@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+.banner{
+    background-color: rgb(41, 160, 160);
+    height: 100px;
+    width: 800px;
+}
+.banner-1{
+    background-color: white;
+    height: 220px;
+    width: 794px;
+    border-style: solid;
+    border-color: rgb(185, 185, 185);
+}
+.perfil{
+    position: fixed;    
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 60px;
+    background-color: white;
+    border-radius: 50%;
+    padding-top: 5px;
+    height: 90px;
+    width: 90px;
+}
+.nombre{
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.ubicacion{
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 90px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.text{
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 120px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.text-1{
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 145px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.edit-perfil {
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 175px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
