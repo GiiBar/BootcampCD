@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding: 10px;
+
+}
+.nav-title {
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    margin-top: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none; 
+}
+.nav-title:hover{
+    color: white;
+}
+.btn {
+    position:relative;
+    background-color: rgb(92, 228, 182);
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+    padding: 5px;
+    float: right;
+    margin-right: 50px;
+}
+.btn:hover{
+    color: white;
+} /*  Fin de la barra principal */
+.ban-connect{
+    height: 250px;
+    width: 350px;
+    border-style: solid;
+    border-color: rgb(185, 185, 185);
+    margin-left: 1000px;
+    margin-top: 20px;
+    float: left;
+    position: relative;
+    font-family: "roboto", sans-serif;
+    font-size: 20px;
+}
+.borde{
+    background-color: rgb(75, 75, 75);
+    height: 60px;
+    width: 350px;
+    padding-top: 5px;
+    padding-left: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.usser-circular{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(131, 131, 131);
+    margin-bottom: 0%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fuente{
+    margin-top: 5px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.banner{
+    background-color: rgb(41, 160, 160);
+    height: 100px;
+    width: 800px;
+    margin-left: 100px;
+    margin-top: 20px;
+    position: relative;
+}
+.banner-1{
+    background-color: white;
+    height: 180px;
+    width: 794px;
+    border-style: solid;
+    border-color: rgb(185, 185, 185);
+    margin-left: 100px;
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 40px;
+    margin-left: 30px;
+    font-family: "roboto", sans-serif;
+    font-size: 20px;
+}
+.perfil{
+    position: absolute;
+    background-color: white;
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    padding-top: 5px;
+    top: -90px;
+}
+.circular{
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    margin-left: 5px;
+}
+/*  Fin Perfil */
+.ban-connect-you{
+    background-color: white;
+    height: 380px;
+    width: 350px;
+    border-style: solid;
+    border-color: rgb(185, 185, 185);
+    margin-left: 1000px;
+    float: left;
+    position: relative;
+    text-decoration: none; 
+    font-family: "roboto", sans-serif;
+}
+.ban-connect-you-1{
+    background-color: rgb(75, 75, 75);
+    height: 60px;
+    width: 350px;
+    color: white;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+.usser-circular{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-items: flex-start;
+    margin-right: 10px;
+}
+.usser-circular-2{
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+}
+.education{
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    width: 794px;
+    border-style: solid;
+    border-color: rgb(185, 185, 185);
+    margin-left: -1255px;
+    margin-top: 20px;
+    float: left;
+    position: relative;
+    text-decoration: none; 
+    font-family: "roboto", sans-serif;
+    font-size: 20px;
+}
+.ban-education{
+    background-color: rgb(75, 75, 75);
+    height: 50px;
+    width: 764px;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.text-education{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
