@@ -1,0 +1,107 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+}
+.nav{
+    background-color: #cccccc;
+    width: 951px;
+    height: 50px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-family: "Comic Sans MS";
+    align-self: center;
+}
+.btn {
+    background-color: #2b78e4;
+    height: 30px;
+    width: 60px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: white;
+    border: solid 3px black;
+    font-family: "Comic Sans MS";
+    box-shadow: 3px 3px black;
+}
+.btn:hover{
+    color: white;
+}
+.def1{
+    height: 200px;
+    width: 700px;
+    border: solid 3px black;
+    margin-top: 20px;
+    margin-left: 25%;
+}
+.nombre1{
+    height: 180px;
+    width: 480px;
+    font-family: "Comic Sans MS";
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: initial;
+    text-align: center;
+}
+.btn1{
+    background-color: #ffd966;
+    height: 30px;
+    width: 90px;
+    cursor: pointer;
+    color: black;
+    margin-top: 20px;
+    font-weight: bolder;
+    border: solid 3px black;
+    font-family: "Comic Sans MS";
+    box-shadow: 3px 3px black;
+}
+.def2{
+    height: 200px;
+    width: 700px;
+    border: solid 3px black;
+    margin-top: 20px;
+    margin-left: 25%;
+}
+.btn2{
+    background-color: #ffd966;
+    height: 30px;
+    width: 90px;
+    cursor: pointer;
+    color: black;
+    margin-top: 20px;
+    font-weight: bolder;
+    border: solid 3px black;
+    font-family: "Comic Sans MS";
+    box-shadow: 3px 3px black;
+}
+ul{
+    list-style: none;
+    padding: 0%;
+    margin-top: 0%;
+}
+.add-you{
+    height: 140px;
+    width: 180px;
+    border: solid 3px black;
+    margin-top: 20px;
+    font-family: "Comic Sans MS";
+    margin-left: 2%;
+    padding: 10px;
+}
+.btn3{
+    background-color: #93c47d;
+    height: 30px;
+    width: 120px;
+    cursor: pointer;
+    color: black;
+    margin-top: 20px;
+    font-weight: bolder;
+    border: solid 3px black;
+    font-family: "Comic Sans MS";
+    box-shadow: 3px 3px black;
+}
+.forma{
+    display: flex;
+    flex-direction: initial;
+}
