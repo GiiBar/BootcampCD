@@ -1,0 +1,67 @@
+.nav{
+    width: 1000px;
+    height: 50px;
+    background-color: black;
+    font-style: "Comic Sans MS";
+    color: white;
+    padding-bottom: 30px;
+    margin-left: 300px;
+}
+.perfil{
+    width: 150px;
+    height: 300px;
+    border: solid 3px black;
+    padding: 20px;
+    margin-left: 50px;
+    align-items: center;
+}
+.def1{
+    height: 150px;
+    width: 500px;
+    border: solid 3px black;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 500px;
+    font-size: 15px;
+    margin-left: 10px;
+    font-family: "Comic Sans MS";
+    margin-left: 200px;
+}
+button{
+    background-color: #ffd966;
+    height: 30px;
+    width: 70px;
+    cursor: pointer;
+    color: black;
+    font-weight: bolder;
+    border: solid 3px black;
+    box-shadow: 3px 3px black;
+    margin-left: 100px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+li{
+    margin-left: 20px;
+}
+h1{
+    font-family: "Comic Sans MS";
+    margin-left: 200px;
+}
+h4{
+    margin: 20px;
+}
+p{
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+}
+#like{
+    font-weight: bolder;
+}
+.row{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 300px;
+}
